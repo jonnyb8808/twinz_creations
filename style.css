@@ -401,7 +401,8 @@ Footer
 
 /* ===== FORM STYLING ===== */
 .contact__form input,
-.contact__form textarea {
+.contact__form textarea,
+.custom__form input {
   width: 100%;
   padding: 12px;
   margin: 10px 0;
